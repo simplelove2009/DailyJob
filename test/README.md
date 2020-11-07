@@ -1,2 +1,0 @@
-# DailyJob
-Everyday's jobs.
